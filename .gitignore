@@ -1,0 +1,23 @@
+# Кеш і скомпільовані файли Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Віртуальні середовища
+venv/
+.venv/
+env/
+
+# Персональні налаштування редакторів коду (IDE)
+.vscode/
+.idea/
+*.swp
+
+# Тимчасові файли та логи
+*.log
+*.tmp
+
+# Системні файли Windows та macOS
+Thumbs.db
+desktop.ini
+.DS_Store
